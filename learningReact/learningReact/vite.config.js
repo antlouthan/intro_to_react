@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: "/learningReact/learningReact",
+    base: "intro_to_react",
     plugins: [react()],
 })
